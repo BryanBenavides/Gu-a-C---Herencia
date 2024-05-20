@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\Tienda celular\bin\Debug\net8.0\Tienda celular.exe
+C:\Users\bryan\source\repos\Tienda celular\bin\Debug\net8.0\Tienda celular.deps.json
+C:\Users\bryan\source\repos\Tienda celular\bin\Debug\net8.0\Tienda celular.runtimeconfig.json
+C:\Users\bryan\source\repos\Tienda celular\bin\Debug\net8.0\Tienda celular.dll
+C:\Users\bryan\source\repos\Tienda celular\bin\Debug\net8.0\Tienda celular.pdb
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.dll
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\refint\Tienda celular.dll
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.pdb
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\Tienda celular.genruntimeconfig.cache
+C:\Users\bryan\source\repos\Tienda celular\obj\Debug\net8.0\ref\Tienda celular.dll
